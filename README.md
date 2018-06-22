@@ -1,7 +1,7 @@
 
-# Benchmarking IntaRNA's extension for structure probing (SHAPE) data
+# Benchmarking [IntaRNA](https://github.com/BackofenLab/IntaRNA)'s extension for structure probing (SHAPE) data
 
-This repository contains data and analysis scripts for IntaRNA-SHAPE project and publication.
+This repository contains data and analysis scripts for [IntaRNA](https://github.com/BackofenLab/IntaRNA)'s extension for structure probing (SHAPE) data and the respective  publication.
 
 In the following, we provide IntaRNA interaction heatmap representations as well as interaction site probabilities for target pre-mRNAs of the splicosomal U1 RNA. 
 
