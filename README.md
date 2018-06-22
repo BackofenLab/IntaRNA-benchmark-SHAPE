@@ -1,5 +1,5 @@
 
-# IntaRNA-SHAPE
+# Benchmarking IntaRNA's extension for structure probing (SHAPE) data
 
 This repository contains data and analysis scripts for IntaRNA-SHAPE project and publication.
 
