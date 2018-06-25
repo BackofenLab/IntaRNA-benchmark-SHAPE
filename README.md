@@ -12,7 +12,7 @@ The right bar plot provides the ratio of both probabilities for each interaction
 
 For further details, please refer to the manuscript.
 
-The following plot are computed using
+The following plots are computed using
 - IntaRNA v2.2.0 linking
 - Vienna RNA package v2.4.7
 
