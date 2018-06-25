@@ -12,6 +12,10 @@ The right bar plot provides the ratio of both probabilities for each interaction
 
 For further details, please refer to the manuscript.
 
+The following plot are computed using
+- IntaRNA v2.2.0 linking
+- Vienna RNA package v2.4.7
+
 ## ACT1
 
 ![U1 interactions with ACT1](./results/20180525-notebook/ACT1/heatmap_ACT1-ENSRNA049495626-T1-U1.png)
