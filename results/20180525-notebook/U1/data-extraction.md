@@ -1,4 +1,4 @@
-We used the recommended settings from (Ding et al. 2015) to map the sequencing reads and compute reactivities of the annotated transcripts using the Galaxy tools (Afgan et al. 2018) Bowtie-2 and StructureFold (Langmead and Salzberg 2012; Tang et al. 2015). We selected the U1 homolog transcript bearing the largest secondary structure distance between the unconstrained and SHAPE-constrained structure prediction (using RNAfold).
+We used the recommended settings from (Ding et al. 2015) to map the sequencing reads and compute reactivities of the annotated transcripts using the Galaxy tools (Afgan et al. 2018) Bowtie-2 and StructureFold (Langmead and Salzberg 2012; Tang et al. 2015). We selected the U1 homolog transcript bearing the largest secondary structure distance between the unconstrained and SHAPE-constrained structure prediction (using `RNAfold --shape`).
 
 
 - Afgan, Enis, Dannon Baker, Bérénice Batut, Marius van den Beek, Dave Bouvier, Martin Čech, John Chilton, et al. 2018. “The Galaxy Platform for Accessible, Reproducible and Collaborative Biomedical Analyses: 2018 Update.” Nucleic Acids Research, gky379. https://doi.org/10.1093/nar/gky379.
