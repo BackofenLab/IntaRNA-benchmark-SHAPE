@@ -18,37 +18,37 @@ The following plots are computed using
 
 ## ACT1
 
-![U1 interactions with ACT1](./results/20180525-notebook/ACT1/heatmap_ACT1-ENSRNA049495626-T1-U1.png)
+![U1 interactions with ACT1](./data/ACT1/heatmap_ACT1-ENSRNA049495626-T1-U1.png)
 
-![U1 interactions with ACT1](./results/20180525-notebook/ACT1/barplot_ACT1-ENSRNA049495626-T1-U1.png)
+![U1 interactions with ACT1](./data/ACT1/barplot_ACT1-ENSRNA049495626-T1-U1.png)
 
 
 ## NBR1
 
-![U1 interactions with NBR1](./results/20180525-notebook/NBR1/heatmap_NBR1-ENSRNA049495626-T1-U1.png)
+![U1 interactions with NBR1](./data/NBR1/heatmap_NBR1-ENSRNA049495626-T1-U1.png)
 
-![U1 interactions with NBR1](./results/20180525-notebook/NBR1/barplot_NBR1-ENSRNA049495626-T1-U1.png)
+![U1 interactions with NBR1](./data/NBR1/barplot_NBR1-ENSRNA049495626-T1-U1.png)
 
 
 ## RPL16A
 
-![U1 interactions with RPL16A](./results/20180525-notebook/RPL16A/heatmap_RPL16A-ENSRNA049495626-T1-U1.png)
+![U1 interactions with RPL16A](./data/RPL16A/heatmap_RPL16A-ENSRNA049495626-T1-U1.png)
 
-![U1 interactions with RPL16A](./results/20180525-notebook/RPL16A/barplot_RPL16A-ENSRNA049495626-T1-U1.png)
+![U1 interactions with RPL16A](./data/RPL16A/barplot_RPL16A-ENSRNA049495626-T1-U1.png)
 
 
 ## RPS9
 
-![U1 interactions with RPS9](./results/20180525-notebook/RPS9/heatmap_RPS9-ENSRNA049495626-T1-U1.png)
+![U1 interactions with RPS9](./data/RPS9/heatmap_RPS9-ENSRNA049495626-T1-U1.png)
 
-![U1 interactions with RPS9](./results/20180525-notebook/RPS9/barplot_RPS9-ENSRNA049495626-T1-U1.png)
+![U1 interactions with RPS9](./data/RPS9/barplot_RPS9-ENSRNA049495626-T1-U1.png)
 
 
 ## RPS10
 
-![U1 interactions with RPS10](./results/20180525-notebook/RPS10/heatmap_RPS10-ENSRNA049495626-T1-U1.png)
+![U1 interactions with RPS10](./data/RPS10/heatmap_RPS10-ENSRNA049495626-T1-U1.png)
 
-![U1 interactions with RPS10](./results/20180525-notebook/RPS10/barplot_RPS10-ENSRNA049495626-T1-U1.png)
+![U1 interactions with RPS10](./data/RPS10/barplot_RPS10-ENSRNA049495626-T1-U1.png)
 
 
 
