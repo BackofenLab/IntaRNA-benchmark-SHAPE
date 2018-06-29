@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="214.17198mm"
-   height="244.41725mm"
-   viewBox="0 0 214.17198 244.41726"
+   width="221.90219mm"
+   height="250.66415mm"
+   viewBox="0 0 221.90219 250.66416"
    version="1.1"
    id="svg1289"
    style="display:block"
@@ -253,9 +253,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="769.05633"
-     inkscape:cy="315.37623"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="95.158884"
+     inkscape:cy="522.19055"
      inkscape:document-units="mm"
      inkscape:current-layer="g29033"
      showgrid="false"
@@ -284,7 +284,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(293.48297,45.834673)">
+     transform="translate(297.3209,58.157177)">
     <g
        id="g12184">
       <g
@@ -296,7 +296,7 @@
            transform="translate(-298,2.0000003)">
           <g
              id="g21942"
-             transform="matrix(0.9386652,0,0,0.9386652,-488.82732,-953.67414)">
+             transform="matrix(0.9386652,0,0,0.9386652,-488.82732,-993.67414)">
             <g
                id="g3385-9"
                transform="matrix(0.78395767,0,0,0.78395767,1005.6022,1084.4349)"
@@ -10731,32 +10731,50 @@
               <text
                  xml:space="preserve"
                  style="font-style:normal;font-weight:normal;font-size:26.69781494px;line-height:35.75600433px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.43024015px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                 x="225.39"
+                 x="53.761196"
                  y="41.139664"
                  id="text29153"
                  transform="scale(1,-1)"><tspan
                    sodipodi:role="line"
                    id="tspan29151"
-                   x="125.39"
+                   x="53.761196"
                    y="41.139664"
                    style="stroke-width:1.43024015px">Position-wise accessibility of U1 with SHAPE (orange) and without (blue, STD)</tspan></text>
               <text
                  xml:space="preserve"
                  style="font-style:normal;font-weight:normal;font-size:25.81218529px;line-height:34.56989288px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.38279569px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                  x="27.393112"
-                 y="974.91882"
+                 y="917.70923"
                  id="text29157"
                  transform="scale(1,-1)"><tspan
                    sodipodi:role="line"
                    x="27.393112"
-                   y="974.91882"
+                   y="917.70923"
                    style="stroke-width:1.38279569px"
                    id="tspan29169">Accessibilities mapped to the U1 secondary structure and color-coded, more accessible </tspan><tspan
                    sodipodi:role="line"
                    x="27.393112"
-                   y="1009.4887"
+                   y="952.27911"
                    style="stroke-width:1.38279569px"
                    id="tspan29175">positions have darker colors. Visualized with Forna (Kerpedjiev et al., 2015)</tspan></text>
+              <rect
+                 style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.78394222;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 id="rect4427"
+                 width="1189.1423"
+                 height="880.6192"
+                 x="-12.259174"
+                 y="99.504173"
+                 transform="scale(1,-1)"
+                 ry="13.592467" />
+              <rect
+                 style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.78394222;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 id="rect4429"
+                 width="1192.0002"
+                 height="443.96469"
+                 x="-18.854465"
+                 y="-371.09082"
+                 transform="scale(1,-1)"
+                 ry="13.592472" />
             </g>
           </g>
         </g>
@@ -10764,7 +10782,7 @@
     </g>
     <g
        id="g10482"
-       transform="matrix(0.9386652,0,0,0.9386652,-17.865262,1.8718913)">
+       transform="matrix(0.9386652,0,0,0.9386652,-17.865262,-8.7114421)">
       <g
          transform="matrix(0.26458333,0,0,0.26458333,17.273513,66.888096)"
          id="g5258"
