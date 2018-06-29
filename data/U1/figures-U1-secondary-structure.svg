@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="221.90219mm"
-   height="250.66415mm"
-   viewBox="0 0 221.90219 250.66416"
+   width="216.52437mm"
+   height="238.49785mm"
+   viewBox="0 0 216.52437 238.49785"
    version="1.1"
    id="svg1289"
    style="display:block"
@@ -253,9 +253,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="95.158884"
-     inkscape:cy="522.19055"
+     inkscape:zoom="0.7"
+     inkscape:cx="409.3957"
+     inkscape:cy="538.18747"
      inkscape:document-units="mm"
      inkscape:current-layer="g29033"
      showgrid="false"
@@ -284,7 +284,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(297.3209,58.157177)">
+     transform="translate(294.21244,48.26023)">
     <g
        id="g12184">
       <g
@@ -10758,23 +10758,23 @@
                    style="stroke-width:1.38279569px"
                    id="tspan29175">positions have darker colors. Visualized with Forna (Kerpedjiev et al., 2015)</tspan></text>
               <rect
-                 style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.78394222;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.72202969;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                  id="rect4427"
-                 width="1189.1423"
-                 height="880.6192"
-                 x="-12.259174"
-                 y="99.504173"
+                 width="1166.729"
+                 height="868.4057"
+                 x="-2.0821862"
+                 y="99.481331"
                  transform="scale(1,-1)"
-                 ry="13.592467" />
+                 ry="13.40395" />
               <rect
-                 style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.78394222;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.50607586;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                  id="rect4429"
-                 width="1192.0002"
-                 height="443.96469"
-                 x="-18.854465"
-                 y="-371.09082"
+                 width="1163.1407"
+                 height="390.61252"
+                 x="-0.20284063"
+                 y="-317.7305"
                  transform="scale(1,-1)"
-                 ry="13.592472" />
+                 ry="11.959036" />
             </g>
           </g>
         </g>
