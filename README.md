@@ -1,5 +1,5 @@
 
-# Benchmarking [IntaRNA](https://github.com/BackofenLab/IntaRNA)'s extension for structure probing (SHAPE) data
+## Benchmarking [IntaRNA](https://github.com/BackofenLab/IntaRNA)'s extension for structure probing (SHAPE) data
 
 This repository contains data and analysis scripts for [IntaRNA](https://github.com/BackofenLab/IntaRNA)'s extension for structure probing (SHAPE) data and the respective publication.
 
