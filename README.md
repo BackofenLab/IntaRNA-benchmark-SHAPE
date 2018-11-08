@@ -1,12 +1,12 @@
 
-# Benchmarking [IntaRNA](https://github.com/BackofenLab/IntaRNA)'s extension for structure probing (SHAPE) data
+## Benchmarking [IntaRNA](https://github.com/BackofenLab/IntaRNA)'s extension for structure probing (SHAPE) data
 
 This repository contains data and analysis scripts for [IntaRNA](https://github.com/BackofenLab/IntaRNA)'s extension for structure probing (SHAPE) data and the respective publication.
 
 In the following, we provide IntaRNA interaction heatmap representations as well as interaction site probabilities for target pre-mRNAs of the splicosomal U1 RNA.
-A description how the U1 sequence was chosen is given [here](./data/U1/data-extraction.md).
+A description how the U1 data extraction procedure is given [here](./data/U1/data-extraction.md).
 
-Below figures compare the influence of *in vivo* SHAPE data on the predicted accessibility (unpaired probability) of the U1 RNA.
+Below figures compare the influence of *in vivo* SHAPE data on the predicted accessibility (unpaired probability) of the U1 RNA. The probablitiy corresponds to the 3-mer accssibilities (*RNAplfold -u 3*), such that for each position *i* the probability that 3-mer [*i-2, i*] is unpaired. 
 
 ![U1 accessibility](./data/U1/figures-U1-secondary-structure.svg)
 
